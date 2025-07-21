@@ -1,0 +1,26 @@
+[
+  {
+    "case_number": "M.12345",
+    "year": "2000",
+    "policy_area": "Merger",
+    "link": "https://ec.europa.eu/competition/merger/cases/.../.pdf",
+    "topic": "Dogs",
+    "text": "Cute, fluffy, and barks."
+  },
+  {
+    "case_number": "M.54321",
+    "year": "2000",
+    "policy_area": "Merger",
+    "link": "https://ec.europa.eu/competition/merger/cases/.../.pdf",
+    "topic": "Cats",
+    "text": "Loud, lazy, and meows."
+  },
+  {
+    "case_number": "M.6789",
+    "year": "2000",
+    "policy_area": "Merger",
+    "link": "https://ec.europa.eu/competition/merger/cases/dec_docs/.../.pdf",
+    "topic": "Cows",
+    "text": "Moooooooooooooooooooo."
+  }
+]
