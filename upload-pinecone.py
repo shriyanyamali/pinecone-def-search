@@ -8,7 +8,7 @@ from pinecone.db_control.models.serverless_spec import ServerlessSpec
 
 OPENAI_API_KEY   = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
-INDEX_NAME       = os.getenv("PINECONE_INDEX", "verdictr-semantic")
+INDEX_NAME       = os.getenv("PINECONE_INDEX", "<your-index-name>")
 
 EMBED_MODEL      = "text-embedding-3-small"
 EMBED_DIM        = 1536
